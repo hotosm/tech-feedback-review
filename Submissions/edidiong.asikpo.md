@@ -27,14 +27,14 @@ To carry out this research, I came up with questions that I would ask the resear
 
 Finding research participants who met my criteria for the research was quite tricky because very few people in the HOT write a brief description of their role in the community on their Slack Profile. This led me to send this [message](https://docs.google.com/document/d/1qIy-EpKmB--0ASqCDTjNz9eYRZG5qEyUwne7Qay9ysU/edit?usp=sharing) to 13 people randomly because I realized that I had to have a conversation with the proposed participants first before figuring out what kind of stakeholders they were. Interestingly, out of the 13 people I sent the [message](https://docs.google.com/document/d/1qIy-EpKmB--0ASqCDTjNz9eYRZG5qEyUwne7Qay9ysU/edit?usp=sharing) to, only 7 people have responded to my message at the time of this writing. Out of the 7 people that responded, two indicated that their schedule was too tight to become participants in the research while the other 5 accepted to participate in the research.
 
-I have been able to interview 4 out of the 5 people who agreed to participate in the research. I interviewed two HOT Internal Staff and OSM Community Members respectively. After the interviews were concluded, I decided to focus the research on the OSM Community Members from the list of  stakeholders shared by Bo because these set of people were mostly affected by either the good or bad side of HOT's feedback and technical support while the HOT internal staff was on the receiving end.
+I have been able to interview 4 out of the 5 people who agreed to participate in the research. I interviewed two HOT Internal Staff and Contributors respectively. After the interviews were concluded, I decided to focus the research on the Contributors from the list of  stakeholders shared by Bo because these set of people were mostly affected by either the good or bad side of HOT's feedback and technical support while the HOT internal staff was on the receiving end of Technical support request. 
 
 ### Find the interview below: 
 
--   [Interview with Laura Mugeha ](https://docs.google.com/document/d/1rxWuCsKVifzl1ShgCN-PhQNdBUm3UPD6PlOMsn96i6k/edit?usp=sharing)
 -   [Interview with Jarmo Kivekas](https://docs.google.com/document/d/15IM2Z4HsIqYATmK9YR35pZ1-3ENz7SgzaNWBssEcrMo/edit?usp=sharing)
--   [Interview with Feye](https://docs.google.com/document/d/13Z_sH8zFn_pcJkiMRaqbG46Ndz6cn_lcMsWyrZDz0ZI/edit?usp=sharing)
+-   [Interview with Laura Mugeha ](https://docs.google.com/document/d/1rxWuCsKVifzl1ShgCN-PhQNdBUm3UPD6PlOMsn96i6k/edit?usp=sharing)
 -   [Interview with Ramyaragupathy](https://docs.google.com/document/d/1PMj6XKaMbpzEqdq_MXcft5g9gazdGDAFl8fUhpTyhO4/edit?usp=sharing)
+-   [Interview with Feye](https://docs.google.com/document/d/13Z_sH8zFn_pcJkiMRaqbG46Ndz6cn_lcMsWyrZDz0ZI/edit?usp=sharing)
 
 ## Research Logistics
 
@@ -48,15 +48,18 @@ The participants were asked open-ended questions that allowed them to answer in 
 
 ## Synthesis
 
-Keeping in mind that the goal was to understand how HOT collects, implements, and provides technical support for its users, community, and contributors. This synthesis of this research is broken down into three sections.
+Keeping in mind that the goal was to understand how HOT collects, implements, and provides technical support for its users, community, and contributors. This synthesis of this research is broken down into two sections.
 
 ### What did participants think of HOT's process of collecting feedback?
 
 **What they liked:** 
-Participants explained that they liked how feedback was collected by the HOT community. The methods of collecting data they've seen include but are not limited to Github, Slack, Emails and during After Action Report (AAR). 
+Participants explained that the  methods of collecting feedback in HOT include but are not limited to Github, Slack, Emails and during After Action Report (AAR) and they liked it because they got a response on their issues on time.
 
 **What they didn't like:** 
-No participant explicitly said they disliked HOT's means of collecting feedback.
+There isn't a formal/centralized way of collecting feedback to aid more transparency. As we deal with more mapping projects, the need for formalizing feedback is necessary for work prioritisations. 
+At this point, there is no one common standard for the feedback collection process. That is; feedback comes in through multiple channels and is mostly prioritised based on the current work focus. As far as there are no prior /standard agreement timelines for delivery, attending to feedback is purely based on the availability of the tech personnel and the criticality of the issue. 
+
+According to one of the participants, there is no way for everyone else in my team to know that I am working on a feedback or technical support request except I announce it during our team meetings or a request comes through a shared mail ID for the tech team. 
 
 ### What did participants think of HOT's process of implementing feedback and providing Technical Support?
 
@@ -70,7 +73,7 @@ Using the words of one of the participants, It is very strenuous to find answers
 
 ## Recommendation
 
-From the research conducted, OSM community members are fairly satisfied with HOT's feedback process and technical support but agree that some improvements should be made to improve the process and make it even more seamless. I have listed out a couple of recommendations that could improve HOT Tech feedback and technical support if they were implemented.
+From the research conducted, contributors are fairly satisfied with HOT's feedback process and technical support but agree that some improvements should be made to improve the process and make it even more seamless. I have listed out a couple of recommendations that could improve HOT Tech feedback and technical support if they were implemented.
 
 ### Slackbot
 
@@ -90,6 +93,11 @@ It's even harder for new users to find answers to previously asked questions so 
 ### Bio
 
 When I conducted this research it wasn't easy to know who was part of a specific stakeholder group because it wasn't included on anybody's BIO. Asking everyone to update their BIO with their role in the HOT community would help people know the right person to reach out to when they have any issues and also easily know who can provide technical support to them. To implement this, old members can be informed via Slack or email while any new person that joins the community will be informed about this via Slack's Greetbot.
+
+### A central Storage for After Action Report (AAR)
+
+To fix the issue of not finding previous AAR, I recommend that a storage folder be created on the cloud. Possible tools that could be used for this are Google Drive or Dropbox. 
+
 
 ### Research
 
