@@ -1,18 +1,43 @@
 HOT Tech: Feedback and Technical Support Proposal
+
 Project Description: As HOT’s products strengthen and users increase on a daily basis, HOT needs to ensure that technical support requests and feedback are gathered from all users within the HOT community in a way that is standardized across all it’s products. Building upon current practices, HOT is looking for an individual that can strengthen current Technical Support and Feedback systems and integrate open source standard practices to reduce workload and capacity of the HOT tech development team. The outcome should be conducive to supporting both the HOT community and the HOT tech team.
+
 Some key skills/aspects of the project include:
 •	Understanding business needs for HOT Technology users and HOT tech team
 •	Understand workflows for HOT Tech team and ensure feedback is inline with team requests.
 •	Understand community needs
 •	Propose/Develop a system that integrates business requirements and the needs of the HOT tech team, HOT internal and HOT community.
+
+## Reserched was made by sendinq a short survey with Open questions t0 collect data.
+Questions:
+How long are you a member of HOT community?
+Have you ever had any question which you would have to look it up?
+If yes, Was it easy to find what you were looking for?
+How can we make HOT community  better?
+Do you have any request or feedback for HOT?
+What would have made your experience with us better?
+Would you be OK regularly contacting by HOT community for feedback providing?( we want to be sure that all community members needs and request met)
+What do you like most about HOT?
+Is there anything else you would like us to know about your experience?
+
+Interviws records yuo can find here:
+1. With Adam (https://docs.google.com/document/d/1KnwrErvtsV3PGqs77aLAT-E2ApfsA8C36miNTV2HVqw/edit?usp=sharing)
+2. With Noemi (https://docs.google.com/document/d/10uKGBFyRROVvGBdHyHiZOiPY2ctam9cCft8YCynwo6k/edit?usp=sharing)
+
+Research conclusion:
+
 Feedback system is just one part of the whole customer experience, which is a users/members overall perception of company/community, based on their interactions with this system. Comparatively, it refers to specific touchpoints within the experience where a member requests and receives assistance or help—for example,getting quick respond to a problem, finding the right solution. 
+
 In short, good feedback system can be achieved if you:
 •	Make listening to members a top priority across the business
 •	Use their feedback to develop an in-depth understanding of them
 •	Implement a system to help you collect feedback, analyze it, and act on it regularly
 •	Reduce friction and solve your customers' specific problems and unique challenges
+
 A good feedback system comes from asking your members questions, listening to their responses, and actioning their feedback.
-Communication Tools
+
+## Communication Tools
+
 Live Chat
 One great approach to enabling direct feedback from your customers is through live chat. Intercom is a “way for internet businesses to communicate with customers, personally, at scale” which incorporates a chat widget on your website, allowing your customers to engage with you directly. Intercom is more than just a live chat though, it also offers rich metric reporting and integrations with your other favorite tools like GitHub, Slack, Salesforce, and more.
 
@@ -38,7 +63,6 @@ At the bottom of every page on website, you’ll find this box/button.
 The entire purpose of this form is to make it really easy for HOT users to tell the developers team when something isn’t working. It’s available as soon as someone needs it, out of the way when they don’t, and sends their message to multiple people here. It even collects information like the account name, the URL, and browser version so developers’ team can recreate the problem and determine exactly how to fix it.
 The whole point of a feedback box is to get feedback from users about small things. That means they have very little motivation to tell us about it in the first place. And you won’t hear about the issue through other channels since it’s only a minor annoyance.
 
-
 GitHub Issues
 
 GitHub Issues are a powerful and very approachable tool for just about any member on your team. A repository can be created solely for tracking feedback, requests, or comments. This functionality provides users with a straightforward way to @mention team members and issues can be intuitively labelled or assigned appropriately.
@@ -51,9 +75,13 @@ Fabric / Crashlytics
 
 Crashlytics is a mobile SDK in the Fabric suite of development tools (a subsidiary of Twitter). Crashlytics gives developers precise information regarding issues that are causing their apps to under perform or crash. The feedback provided by tools like these can speed up feedback cycles for developers to get ahead of bugs, potentially even before the user has an opportunity to communicate the problem. While the aforementioned Firebase also has a Crash Reporting tool, it is currently in beta release.
 
-First and foremost, you need to respond
+## First and foremost, you need to respond and show outcomes of contributors work
 
 •	For bugs and tech issues, connect them directly to HOT tech. 
 •	Ask for a more detailed description of what they were trying to accomplish (this will help HOT tech team build the right solution).
 •	Someone on HOT tech team should have the responsibility of replying to each piece of feedback within a few days. Ideally, send responses within 24 hours.
+•	Reward users – with regular monthly/weekly email newsletter where short survey can be done and Image with short story how Maps are used
+•	Add more tasks options for users with experience 
+
+
 
