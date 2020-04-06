@@ -1,0 +1,115 @@
+HOT Tech: Feedback and Technical Support Proposal
+
+Project Description: As HOT’s products strengthen and users increase on a daily basis, HOT needs to ensure that technical support requests and feedback are gathered from all users within the HOT community in a way that is standardized across all it’s products. Building upon current practices, HOT is looking for an individual that can strengthen current Technical Support and Feedback systems and integrate open source standard practices to reduce workload and capacity of the HOT tech development team. The outcome should be conducive to supporting both the HOT community and the HOT tech team.
+
+Some key skills/aspects of the project include:
+•	Understanding business needs for HOT Technology users and HOT tech team
+•	Understand workflows for HOT Tech team and ensure feedback is inline with team requests.
+•	Understand community needs
+•	Propose/Develop a system that integrates business requirements and the needs of the HOT tech team, HOT internal and HOT community.
+
+## Reserched was conducted by sendinq a short survey with open questions to random HOT community memebers
+
+Questions:
+
+1.How long are you a member of HOT community?
+2.Have you ever had any question which you would have to look it up?
+3.If yes, Was it easy to find what you were looking for?
+4.How can we make HOT community  better?
+5.Do you have any request or feedback for HOT?
+6.What would have made your experience with us better?
+7.Would you be OK regularly contacting by HOT community for feedback providing?( we want to be sure that all community members needs and request met)
+8.What do you like most about HOT?
+9.Is there anything else you would like us to know about your experience?
+
+Interviews records you can find here:
+
+1. [Interview ith Adam] 
+(https://docs.google.com/document/d/1KnwrErvtsV3PGqs77aLAT-E2ApfsA8C36miNTV2HVqw/edit?usp=sharing)
+2. [Interview with Noemi]
+(https://docs.google.com/document/d/10uKGBFyRROVvGBdHyHiZOiPY2ctam9cCft8YCynwo6k/edit?usp=sharing)
+3. [Interview with Christoper]
+(https://docs.google.com/document/d/18CidPB01LufgUKppZd6J5MVt_m31NkcoNzApeu23u_Y/edit?usp=sharing)
+4. [Interview with Michael]
+(https://docs.google.com/document/d/1Xc6v7shXrm9ITG4LEWrF_CJJ5E7OfEkM_xmPZ_88DvE/edit?usp=sharing)
+5. [Interview with Clifford]
+(https://docs.google.com/document/d/1k2G9wS2gObyfFH07ITeeMILQ0-NRPqlI81S3eQFKI6Q/edit?usp=sharing)
+
+##Reserach feedback from participants:
+
+HOT memebrs were very happy to answer the questions and provide own feedback. As uo can see the new users do not have any inquiries yet and very positive with their and community work. However, memebrs with more years of experince have some feedback provided and more or less it is similiar: no contact details of responsible people for certain topics, difficulties to find.
+
+## Feedback system:
+
+Feedback system is just one part of the whole customer experience, which is a users/members overall perception of company/community, based on their interactions with this system. Comparatively, it refers to specific touchpoints within the experience where a member requests and receives assistance or help—for example,getting quick respond to a problem, finding the right solution. 
+
+In short, good feedback system can be achieved if you:
+•	Make listening to members a top priority across the business - regular Surveys
+•	Use their feedback to develop an in-depth understanding of them 
+•	Implement a system to help you collect feedback, analyze it, and act on it regularly - below examples
+•	Reduce friction and solve your memebrs' specific problems and unique challenges - optimize feedback system
+
+A good feedback system comes from asking your members questions, listening to their responses, and actioning their feedback.
+
+## Communication Tools can be used such as:
+
+Live Chat
+One great approach to enabling direct feedback from your customers is through live chat. Intercom is a “way for internet businesses to communicate with customers, personally, at scale” which incorporates a chat widget on your website, allowing your customers to engage with you directly. Intercom is more than just a live chat though, it also offers rich metric reporting and integrations with your other favorite tools like GitHub, Slack, Salesforce, and more.
+
+FAQ
+
+Instead of one-on-one interactions, a FAQ/forum platforms is another option for aggregating conversations and feedback. Platform such as Tenderapp can enable your members or community to help themselves and each other, while still allowing you to monitor the discussion and gain insight. Help members help themselves: quickly answer frequently asked questions.
+
+Introduction email/pm/dm
+
+To make smooth transition for new comers (especially non tech people), it is advised to create an introduction email/message/pop up window which you must see how community/forum/slack/search/GIT works and who is responsible on what topics, in order to avoid similar questions, and search for help.
+
+## Gathering Feedback is welcome in HOT community. Participants were glad to be heard, they have feedback but nobody ask them. As this community is a part of their life now, they want to contribute but in return they want to have a smooth proces of doing that, which aslo on the other hand will help a HOT tech support with decreasing its workload - easy to find the right person who can help and Tech supprt team can be notified with bug or tech issues through catchword ( as in GitHub mention below).
+
+Surveys
+
+They’re easy to set up, easy to send out, easy to analyze, and scale very well. 
+Keep it short, ask only the questions that you’ll use, start with open-ended questions, 
+Short Surveys on HOT Site can be another option (not more than 2 -3 questions), pick the page where it can be placed 
+
+Feedback/Suggest boxes and Feedback button, Talk to us
+
+At the bottom of every page on website, you’ll find this box/button.
+The entire purpose of this form is to make it really easy for HOT users to tell the developers team when something isn’t working. It’s available as soon as someone needs it, out of the way when they don’t, and sends their message to multiple people here. It even collects information like the account name, the URL, and browser version so developers’ team can recreate the problem and determine exactly how to fix it.
+The whole point of a feedback box is to get feedback from users about small things. That means they have very little motivation to tell us about it in the first place. And you won’t hear about the issue through other channels since it’s only a minor annoyance.
+
+GitHub Issues
+
+GitHub Issues are a powerful and very approachable tool for just about any member on your team. A repository can be created solely for tracking feedback, requests, or comments. This functionality provides users with a straightforward way to @mention team members and issues can be intuitively labelled or assigned appropriately.
+
+Google Analytics
+
+By using an analytics package on your website you can learn how people are discovering your content, using your site, and where they’re located, along with thousands of other metrics you can combine and visualize.
+
+Fabric / Crashlytics
+
+Crashlytics is a mobile SDK in the Fabric suite of development tools (a subsidiary of Twitter). Crashlytics gives developers precise information regarding issues that are causing their apps to under perform or crash. The feedback provided by tools like these can speed up feedback cycles for developers to get ahead of bugs, potentially even before the user has an opportunity to communicate the problem. While the aforementioned Firebase also has a Crash Reporting tool, it is currently in beta release.
+
+## Proposal that integrates business requirements and the needs of the HOT tech team, HOT internal and HOT community:
+
+      First and foremost, you need to respond:
+
+•	For bugs and tech issues, connect them directly to HOT tech – creating a catchword to help people easily find the right help. Ask for a more detailed description of what they were trying to accomplish (this will help HOT tech team build the right solution)
+•	Use communication tools
+
+Second, you need to delegate people in order to reduce workload of Support team:
+
+•	Appoint local people to mentor remote mappers – voluntarily/voting
+•	Provide email or chat name on OSM websites of users(members) who can be contacted with questions for their region
+(Ex: somebody is editing such as in Uganda, but does not know anybody who lives there, they can find a contact person quickly)
+
+Third, additional keep up with motivation spirit:
+
+•	Reward users – with regular monthly/weekly email newsletter where short survey can be done and Image with short story how Maps are used
+•	Add more tasks options for users with experience 
+•	Organize more local events and webinars
+
+## Conclusion:
+
+In order to implement the best working system, we need to create a survey and send it out to all users. Howwver, not all of them are going to provide a feedback, but more likely people with a lot of experince and some issued would share it back (about 50%). Base on this, we can implement the suitable system for community and improve wokload of Tech Support teamm that also integrates business requirements and the needs of the HOT tech team, HOT internal and HOT community.
+
